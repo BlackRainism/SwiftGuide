@@ -1,16 +1,53 @@
 ## [Swift 语言指南](https://github.com/ipader/SwiftGuide) － 收录周报
+> 考虑到此项工作的长期可持续性，已启用[志愿者服务](Volunteers.md)。
 
-## [Issue 50](Issue-50.md)
+## [Issue 54](Issue-54.md)
 
-**本期特别推荐** 1. 项目：[Permission](https://github.com/delba/Permission)（统一的 API 请求 iOS 本地设备及资源权限类库），[SwipeViewController](https://github.com/fortmarek/SwipeViewController)（页面滑动和标签选项卡）；2. 文档：[我的 iOS 开发入门自学路径](http://www.jianshu.com/p/4be17ec40cfc)，[iOS Core Animation: Advanced Techniques 中文译本](https://zsisme.gitbooks.io/ios-/content/)，[Medium - Swift Programming](https://medium.com/swift-programming)。
+**本期特别推荐** 1. 项目：[Clipy（强大到变态的 OS X 剪贴板扩展应用开源）](https://github.com/Clipy/Clipy)，[expanding-collection（也许是展开、查看列表项最浑然天成的 Peek/Pop 用法及动画效果）](https://github.com/Ramotion/expanding-collection)，[Scrollable-GraphView（灵动感十足的自适应、可定制滚动曲（折）线图表库）](https://github.com/philackm/Scrollable-GraphView)；2. 文章：[Swift 算法实战之路（二）：数组，字符串，集合，与字典](http://www.jianshu.com/p/977736b08bd7)，[Swift 中的尾递归和弹床](http://swift.gg/2016/05/27/recursive-tail-calls-and-trampolines-in-swift/)。
 
-**大声一**: “[IBAnimatable 2.0 发布了！](https://github.com/JakeLin/IBAnimatable/releases)” By [@林永坚Jake](http://weibo.com/yongjianlin)
+**大声一：** [Realm 1.0.0 版本发布！](https://realm.io/cn/news/realm-1.0/)（[中文文档](https://realm.io/cn/docs/swift/latest/)）
 
-**大声二**: [Free iOS 9.3 iPhone UI Kit for Illustrator and Sketch](http://mercury.io/blog/free-ios-9-3-iphone-ui-kit-for-illustrator-and-sketch)
+**大声二：** [创建你所了解的知名 Swift 开发者个人资料页](https://github.com/ipader/SwiftGuide/wiki)
+
 
 > ![](../archive/weixin-swiftlanguage.jpg)
 
 ## 往期回顾
+
+* [Issue 53](Issue-53.md)
+
+	> **本期特别推荐** 1. 项目：[SwiftTweaks：不用重新编译即可调整 UI 配置](https://github.com/Khan/SwiftTweaks)，[Material：Swift 版 Material Design 动画及图形框架库](https://github.com/CosmicMind/Material)，[Networking：使用简单、功能惊喜的网络封装库](https://github.com/3lvis/Networking)，[Interpolate：手势驱动交互式转场动画框架库](https://github.com/marmelroy/Interpolate)；2. 文章：[Artsy 的测试之旅](https://realm.io/cn/news/tryswift-ash-furrow-artsy-testing-tour/)，[分类、整理、归纳非常清晰的开源 iOS 应用集合](https://github.com/dkhamsing/open-source-ios-apps)，[用 HealthKit 来开发一个健身 App](http://swift.gg/2016/05/13/healthkit-introduction/)。
+
+	> **大声一：**[Swift 官方文档中文版已经同步到 Swift 2.2](https://github.com/numbbbbb/the-swift-programming-language-in-chinese/releases/tag/v2.2)（[@SwiftGG翻译组](http://weibo.com/swiftguide)）
+
+	> **大声二：**[Swift 开发者、项目、最佳实践：由 Swift 开发者自己的维护的干货](https://github.com/ipader/SwiftGuide/wiki/%E5%BC%80%E5%8F%91%E8%80%85%E3%80%81%E9%A1%B9%E7%9B%AE%E3%80%81%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5)（[@SwiftLanguage](http://weibo.com/swiftlanguage)）
+
+* [Issue 52](Issue-52.md)
+
+
+	> **本期特别推荐** 1. 项目：[GPUImage2](https://github.com/BradLarson/GPUImage2)（基于 GPU 图像和视频处理框架库），[Peek](https://github.com/shaps80/Peek)（更友好、手势方式检查界面内组件布局信息），[SwiftyGif](https://github.com/kirualex/SwiftyGif)（高性能 Gif 播放引擎），[JASON](https://github.com/delba/JASON)（高速 JSON 解析类库）；2. 文档：[Swift Strings](http://andybargh.com/swift-strings/)，[Stanford 公开课中文字幕翻译](https://github.com/X140Yu/Developing-iOS-9-Apps-with-Swift)，[React Native 的官方最佳实践翻译](http://f8-app.liaohuqiu.net/)，[浅谈 iOS 中的视图优化](http://www.jianshu.com/p/5c968a240e27?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weibo)。
+
+	> **大声一**：[SwiftCon 2016 参会感想](http://blog.devtang.com/2016/04/25/swiftcon-2016-notes/) By [@唐巧](http://weibo.com/tangqiaoboy)
+
+	> **大声二**：[MShare 第一期（iOS 专场相关 Keynote、代码和视频的 Github 仓库）](https://github.com/mengxiangyue/MShare_Salon) By [@孟祥月](http://weibo.com/u/1750643861)
+
+* [Issue 51](Issue-51.md)
+
+	> **本期特别推荐** 1. 项目：[SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField)（带图标显示浮动标签组件库）、[NumberMorphView](https://github.com/me-abhinav/NumberMorphView)（可爱的数字补间（变身）动画类库）、[SwiftSVG](https://github.com/mchoe/SwiftSVG)（支持多种接口绘制 SVG）；2. 文档：[拥抱未来：更优雅的 Swift 写法](https://realm.io/cn/news/doios-daniel-steinberg-ready-for-the-future/)，[iOS主流动画开源库深入分析(一)：IBAnimatable](http://www.jianshu.com/p/5faf36e1f700)，[面向协议的 MVVM 架构介绍](https://realm.io/cn/news/doios-natasha-murashev-protocol-oriented-mvvm/)。
+
+	> **大声一**: [IBM 为可穿戴设备提供开源框架（SDK）及示例](https://github.com/ibm-wearables-sdk-for-mobile/ibm-wearables-swift-sdk)
+
+	> **大声二**: [拥抱未来：更优雅的 Swift 写法](https://realm.io/cn/news/doios-daniel-steinberg-ready-for-the-future/) By realm.io
+
+* [Issue 50](Issue-50.md)
+
+	> **本期特别推荐** 1. 项目: [Permission](https://github.com/delba/Permission) (统一的 API 请求 iOS 本地设备及资源权限类库) ，[SwipeViewController](https://github.com/fortmarek/SwipeViewController) (页面滑动和标签选项卡) ；2. 文档：[我的 iOS 开发入门自学路径](http://www.jianshu.com/p/4be17ec40cfc)，[iOS Core Animation: Advanced Techniques 中文译本](https://zsisme.gitbooks.io/ios-/content/) 以及 [Medium - Swift Programming](https://medium.com/swift-programming)。
+	
+	> **大声一**: “[IBAnimatable 2.0 发布了！](https://github.com/JakeLin/IBAnimatable/releases)” By [@林永坚Jake](http://weibo.com/yongjianlin)
+	
+	> **大声二**: [Free iOS 9.3 iPhone UI Kit for Illustrator and Sketch](http://mercury.io/blog/free-ios-9-3-iphone-ui-kit-for-illustrator-and-sketch)
+
+
 * [Issue 49](Issue-49.md)
 
 	> **本期特别推荐** 1. 项目：[ReplaceAnimation](https://github.com/fruitcoder/ReplaceAnimation)（创意下拉刷新动画实现）、[Bolts-Swift](https://github.com/BoltsFramework/Bolts-Swift)（任务管理 futures/promises 异步实现）及 [PeekPop](https://github.com/marmelroy/PeekPop)（新特性 Peek/Pop 图片预览）；2. 文档：[Swift 通知推送新手指南](http://swift.gg/2016/03/15/push-notification-ios/) 和 [ENJOY 的 Apple Pay 应用内支付接入实践](http://geek.csdn.net/news/detail/60849)。
